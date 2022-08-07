@@ -1,4 +1,4 @@
-# RDX-Batch
+⁸# RDX-Batch
 # Installation
 ```
 git clone https://github.com
@@ -16,5 +16,5 @@ git clone https://github.com
 - Every file has a different code for different uses.
 
 # Disclaimer
-This github repo is just education and fun purposes do not use this codes for your personal problem or to annoy any body. If any one do this the the developer has not take the reponsibilty of any damage.
+This github repo is just education and fun purposes do not use this codes for your personal problem or to annoy any body. If any one do this then the developer has not take the reponsibilty of any damage.
 
