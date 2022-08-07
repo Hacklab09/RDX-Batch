@@ -1,2 +1,3 @@
 # RDX-Batch
-- Installation
+# Installatio
+'git clone '
