@@ -1,7 +1,7 @@
 ⁸# RDX-Batch
 # Installation
 ```
-git clone https://github.com
+git clone https://github.com/Hacklab09/RDX-Batch.git
 ```
 
 # Features
